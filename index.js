@@ -1,6 +1,6 @@
 // write your code below!
 
-var name = "Dominik"
+var "name" = "Dominik"
 var height = 74
 
 console.log("Name:")
